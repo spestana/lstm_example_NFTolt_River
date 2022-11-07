@@ -1,3 +1,6 @@
+# A simple modified version of the notebook has been added to predict streamflow in a single basin, North Fork Tolt River with data from the CAMELS dataset 
+
+
 # Update August 2022
 
 The pangeo binder server is currently offline due to abuse by crypto miners, see https://github.com/pangeo-data/pangeo-binder/issues/195 It is unclear when/if the pangeo binder server will be back online. Minimal code changes should be required to run this notebook locally. For more tutorials (and an entire open source Python library), you might be interested to check out my open source library [NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology).
