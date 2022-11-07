@@ -1,4 +1,4 @@
-# A simple modified version of the notebook has been added with data for the North Fork Tolt River 
+# A simple modified version of the notebook has been added by N. Cristea to run with data for the North Fork Tolt River 
 
 This is a simple to predict streamflow in a single basin, North Fork Tolt River with data from the CAMELS dataset without downloading the entire CAMELS dataset. Streamflow data and weather data have been extracted from the CAMELS dataset and added to this repo as csv files. To run this example use the "Camels_Tolt_LSTM_for_rainfall_runoff_modelling.ipynb" notebook. 
 
