@@ -1,3 +1,9 @@
+
+# A modified version of the notebook has been added by N. Cristea to run with data for North Fork Tolt River 
+
+This is a simple modification to the original setup to predict streamflow in a specific basin, North Fork Tolt River with data from the CAMELS dataset without downloading the entire CAMELS dataset. Streamflow data and weather data have been extracted from the CAMELS dataset and added to this repo as csv files. To run this example use the "Camels_Tolt_LSTM_for_rainfall_runoff_modelling.ipynb" notebook. 
+
+
 # Rainfall-runoff modelling using LSTMs
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/kratzert/pangeo_lstm_example/master)
